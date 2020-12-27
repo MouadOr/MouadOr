@@ -10,7 +10,7 @@ Rigorous and pragmatic, I have a global vision of the IS allowing rapid technolo
 
  🤔  I’m currently open for a new job opportunity, choose which language you want to see my resume [<img src="https://raw.githubusercontent.com/yammadev/flag-icons/master/png/FR%402x.png" width="20"/>](https://drive.google.com/file/d/1y3GvacnopslMJidwlPOT8s1G2LU4l24H/view?usp=sharing) or [<img src="https://raw.githubusercontent.com/yammadev/flag-icons/master/png/GB%402x.png" width="20"/>](https://drive.google.com/file/d/1RO8nVMFLFaH5q8gPV-G1Ie6Y21dTLUmP/view?usp=sharing)
 
-- 🎯 **I’m currently focusing on**: Learning New technologies
+- 🎯 **I’m currently focusing on**: Learning new technologies
 
 - 💬 **Ask me about**: Kubernetes, Scripting Bash, PowerShell, Anibsle, AWS, Puppet, Docker, Openshift, Architecture, Cloud, Orchestrators, Jenkins, CI-CD, BMC Bladelogic, Unix/Linux Systems, ITIL, KanBan, People Management.
 

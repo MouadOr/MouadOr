@@ -12,7 +12,7 @@ Rigorous and pragmatic, I have a global vision of the IS allowing rapid technolo
 
 - 🎯 **I’m currently focusing on**: Learning new technologies
 
-- 💬 **Ask me about**: Kubernetes, Scripting Bash, PowerShell, Anibsle, AWS, Puppet, Docker, Openshift, Architecture, Cloud, Orchestrators, Jenkins, CI-CD, BMC Bladelogic, Unix/Linux Systems, ITIL, KanBan, People Management.
+- 💬 **Ask me about**: Kubernetes, Scripting Bash, PowerShell, Ansible, AWS, Puppet, Docker, Openshift, Architecture, Cloud, Orchestrators, Jenkins, CI-CD, BMC Bladelogic, Unix/Linux Systems, ITIL, KanBan, People Management.
 
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
